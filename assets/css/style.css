@@ -30,6 +30,10 @@
   color: #034b86;
 }
 
+.container .navbar a{
+  color: #FFFFFF;
+}
+
 .container a:hover {
   color: #f0f0f0;
 }
