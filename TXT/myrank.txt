@@ -1,14 +1,4 @@
 # TOP 10 Rank
-
-# Week01
 ZCZC W01 hockyy 
 ZCZC W01 HardJoe
 ZCZC W01 IanAndersenNg
-
-# Week02
-# This myrank version is last modified on 11 March 03:00 GMT+7
-# so the ranking will be done with my neighbors' top ten that is avalaible
-# on the time present
-ZCZC W02 hockyy 
-ZCZC W02 IoriU
-ZCZC W02 HardJoe
