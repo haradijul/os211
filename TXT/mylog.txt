@@ -30,7 +30,13 @@ ZCZC W02 30 L10 Assignment:ranking my neighbors' link
 ZCZC W02 5 L10 Assignment:update mylog.txt
 ZCZC W02 30 L08 Trying demo week2
 ZCZC W03 120 L11 Assignment#1: Reading osc10 and cooling off my head
+ZCZC W03 30 L12 Assignment#2: Trying demo week03
 ZCZC W03 10 L13 Assignment#3: Checking .bash_aliases (already up2date)
-ZCZC W03 90 L17 Assignment#7: Download and checking W03
-ZCZC W03 40 L18 Assignment#8: Update and trying to understand the renewed myscript.sh
+ZCZC W03 30 L14 Assignment#4: Visit and ranking my neighbors' top ten
+ZCZC W03 60 L15 Assignment#5: Create my top ten links of week03
+ZCZC W03 10 L16 Assignment#6: Update mylog.txt (this) for week03
+ZCZC W03 70 L17 Assignment#7: Download and checking W03
+ZCZC W03 29 L18 Assignment#8: Update and trying to understand the renewed myscript.sh
+ZCZC W03 1 L19 Assignment#9: Make checksum and sign it
 ZCZC W03 30 L08 Trying FUSE Demo
+ZCZC W03 90 L05 GSGS File System related
