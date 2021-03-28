@@ -40,3 +40,10 @@ ZCZC W03 29 L18 Assignment#8: Update and trying to understand the renewed myscri
 ZCZC W03 1 L19 Assignment#9: Make checksum and sign it
 ZCZC W03 30 L08 Trying FUSE Demo
 ZCZC W03 90 L05 GSGS File System related
+ZCZC W04 105 L02 Weekly Zoom Meeting
+ZCZC W04 60 L08 Trying to connect to @os211.vlsm.org
+ZCZC W04 80 L12 Assignment#2: Try Demos week03 and week04
+ZCZC W04 10 L15 Assignment#5: Update mylog.txt(this) for week04
+ZCZC W04 50 L16 Assignment#6: Download, decrypt, and tarball myW04
+ZCZC W04 10 L17 Assignment#7: Update bash script
+ZCZC W04 5 L18 Assignment#8: Make SHA256SUM and sign with detached armor
