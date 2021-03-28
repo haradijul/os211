@@ -6,4 +6,8 @@ ZCZC W02 irfancen
 ZCZC W02 HardJoe
 ZCZC W02 hockyy
 ZCZC W02 ikhsanpambayun
-ZCZC W02 IlmaMannix
+ZCZC W02 IlmaManix
+ZCZC W03 HardJoe 
+ZCZC W03 hockyy
+ZCZC W03 IoriU
+ZCZC W03 irfancen
