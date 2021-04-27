@@ -13,10 +13,10 @@ sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://haradijul.github.io/testcolongcbkadal/"
+urlweb:           "https://haradijul.github.io/os211/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/haradijul/testcolongcbkadal"
-urlghpage:        "https://haradijul.github.io/testcolongcbkadal/"
+urlgithub:        "https://github.com/haradijul/os211/"
+urlghpage:        "https://haradijul.github.io/os211/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 
