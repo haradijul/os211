@@ -78,3 +78,11 @@ ZCZC W07 90 L13 Assignment#3: Create my own top ten link for week07
 ZCZC W07 60 L14 Assignment#4: Download and tarballed task for week07
 ZCZC W07 10 L15 Assignment#5: Update (this) log
 ZCZC W07 5 L16 Assignment#6: Sign the task
+ZCZC W08 105 L02 Zoom Week08
+ZCZC W08 60 L05 GSGS Scheduling related
+ZCZC W08 60 L11 Assignment#1: Read OSC Chapter 05
+ZCZC W08 30 L12 Assignment#2: Rank my neighbors top ten
+ZCZC W08 300 L13 Assignment#3: Trying to build Linux from scratch chapter 1-4
+ZCZC W08 30 L14 Assignment#4: produce report 1 and report 2 and md5sum
+ZCZC W08 15 L15 Assignment#5: Update (this) log
+ZCZC W08 5 L15 Assignment#6: Sign the task
